@@ -1,4 +1,5 @@
 ---
+guid: 47a4762f-221c-4d60-b06f-af162f6d2912
 title: Neural networks and deep learning
 seo:
   title: Neural networks and deep learning

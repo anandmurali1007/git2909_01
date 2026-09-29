@@ -1,4 +1,5 @@
 ---
+guid: 8c473f3a-f91f-44b4-9c75-8df7b425b5a0
 title: Retrieval-augmented generation
 seo:
   title: Retrieval-augmented generation

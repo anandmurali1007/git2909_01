@@ -1,4 +1,5 @@
 ---
+guid: 61937a7b-a6cc-412d-a6cc-61f036971e8a
 title: What is artificial intelligence?
 seo:
   title: What is artificial intelligence?

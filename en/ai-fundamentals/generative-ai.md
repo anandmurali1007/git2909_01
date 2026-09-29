@@ -1,4 +1,5 @@
 ---
+guid: 3f6c27b5-99e9-4507-8610-5000ea1d57ff
 title: Generative AI
 seo:
   title: Generative AI

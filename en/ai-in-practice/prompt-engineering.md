@@ -1,4 +1,5 @@
 ---
+guid: 28d3b4fc-fd83-42f3-a776-c0039bbb190d
 title: Prompt engineering
 seo:
   title: Prompt engineering

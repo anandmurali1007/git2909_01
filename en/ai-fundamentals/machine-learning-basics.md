@@ -1,4 +1,5 @@
 ---
+guid: ac0ce7e8-5d51-4ba2-ae1e-d7ec56bc987a
 title: Machine learning basics
 seo:
   title: Machine learning basics
